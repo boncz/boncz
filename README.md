@@ -3,9 +3,9 @@ I'm an aspiring Data Scientist, transitioning into the tech industry after a lon
 
 I am a:
 
-### 🌱 Data Science Student at Indiana University Southeast
+### 🌱 Data Science / Maths Student at Indiana University Southeast
 
-### ⚡ CodeLouisville Cohort Member (starting May 2023)
+### ⚡ CodeLouisville mentor
 
 ### 😄 Lover of coffee, animals, and ice hockey
 <!--
