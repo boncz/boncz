@@ -1,5 +1,5 @@
 # Welcome
-I'm an aspiring Data Scientist, transitioning into the tech industry after a long career in hospitality/management. This new journey is just beginning, and I'm dedicated to learning as much as I can through all possible avenues!
+I'm a Data Scientist, transitioning into the tech industry after a long career in hospitality/management. This new journey is just beginning, and I'm dedicated to learning as much as I can through all possible avenues!
 
 I am a:
 
